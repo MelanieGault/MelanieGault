@@ -134,7 +134,7 @@ Voici une sélection de quelques certifications et badges obtenus sur la platefo
 </div>
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/melaniegault/melaniegault/output/snake.svg" alt="Snake animation" />
 
 
 -----
