@@ -126,16 +126,16 @@ Voici une sélection de quelques certifications et badges obtenus sur la platefo
 
 ## 📊 Statistiques & Trophées GitHub
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melaniegault" alt="melaniegault" /></a> </p>
-
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=melaniegault&column=7" alt="Trophées GitHub de melaniegault" />
+  </a>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=melaniegault&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melaniegault&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melaniegault&locale=fr&hide_title=false&layout=compact&card_width=320&count_private=true&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+  <br>
+  <img src="https://raw.githubusercontent.com/melaniegault/melaniegault/output/snake.svg" alt="Snake animation" />
 </div>
-
-
-<img src="https://raw.githubusercontent.com/melaniegault/melaniegault/output/snake.svg" alt="Snake animation" />
-
 
 -----
 
@@ -143,10 +143,20 @@ Voici une sélection de quelques certifications et badges obtenus sur la platefo
 
 Je vous invite à me suivre et à explorer les ressources que je mets à disposition de la communauté.
 
-* <a href="https://www.youtube.com/c/optimisetonworkspace" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="optimisetonworkspace" height="30" width="40" /></a> Ma chaîne YouTube [**Optimise ton Workspace**](https://youtubr.com/@optimisetonworkspace)     
-* <a href="https://lemondenumeriquedemelanie.com/feed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Flux RSS du blog" height="30" width="40" /></a> Mon blog [**lemondenumeriquedemelanie**](https://lemondenumeriquedemelanie/blog)
-* <a href="https://linkedin.com/in/melaniegault" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melaniegault" height="30" width="40" /></a> Mon compte [linkedin](https://www.linkedin.com/in/melaniegault/)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/melaniegault/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/c/optimisetonworkspace" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://lemondenumeriquedemelanie.com/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_Blog-6A5ACD?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog de Mélanie"/>
+  </a>
+  <a href="https://lemondenumeriquedemelanie.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/Flux_RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog RSS"/>
+  </a>
+</p>
 
 -----
 
